@@ -1,0 +1,11 @@
+*.pgn.zst
+*.pgn
+*.png
+*.jpg
+*.jpeg
+*.zip
+*.csv
+*.pdf
+*.txt
+*.json
+*.parquet
